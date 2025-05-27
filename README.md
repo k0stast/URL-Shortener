@@ -4,11 +4,6 @@ This project implements a simple URL Shortener application in Java, utilizing Re
 
 It is containerized using Docker and orchestrated with Docker Compose, allowing easy execution of both the Java app and the Redis server.
 
-Καταχώρηση (insertion) long URLs
-Ανάκτηση (query) των long URLs μέσω short codes
-Στατιστικά χρήστη και συστήματος
-
-
 Technologies Used
 
 Java 17
